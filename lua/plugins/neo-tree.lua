@@ -1,4 +1,3 @@
--- show hidden files / folders
 return {
   "nvim-neo-tree/neo-tree.nvim",
   opts = {
