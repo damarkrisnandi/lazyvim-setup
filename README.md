@@ -13,3 +13,6 @@ Editor
 
 Editor with Sidebar
 ![editor with sidebar image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/sidebar.png?raw=true)
+
+Telescope
+![telescope](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/telescope.png?raw=true)
