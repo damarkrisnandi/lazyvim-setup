@@ -72,6 +72,7 @@ return {
             key = "q",
           },
         },
+        project = { enable = false },
       },
     },
   },

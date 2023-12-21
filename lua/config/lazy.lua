@@ -13,7 +13,7 @@ require("lazy").setup({
       "LazyVim/LazyVim",
       import = "lazyvim.plugins",
       opts = {
-        colorscheme = "solarized-osaka-moon",
+        colorscheme = "kanagawa",
       },
     },
     -- import any extras modules here
