@@ -75,12 +75,12 @@ jam ishoma enjoyer~~
             icon = "󰒲 ",
             key = "l",
           },
-          {
-            action = "Nvimesweeper",
-            desc = "Play nvimesweeper",
-            icon = "🚩 ",
-            key = "n",
-          },
+          -- {
+          --   action = "Nvimesweeper",
+          --   desc = "Play nvimesweeper",
+          --   icon = "🚩 ",
+          --   key = "n",
+          -- },
           {
             action = "qa",
             desc = " Quit",
