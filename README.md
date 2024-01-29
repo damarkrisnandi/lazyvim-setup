@@ -1,15 +1,7 @@
-# DMRKR.nvim
+# 💤 LazyVim
 
-██████╗ ███╗   ███╗██████╗ ██╗  ██╗██████╗    ███╗   ██╗██╗   ██╗██╗███╗   ███╗
-██╔══██╗████╗ ████║██╔══██╗██║ ██╔╝██╔══██╗   ████╗  ██║██║   ██║██║████╗ ████║
-██║  ██║██╔████╔██║██████╔╝█████╔╝ ██████╔╝   ██╔██╗ ██║██║   ██║██║██╔████╔██║
-██║  ██║██║╚██╔╝██║██╔══██╗██╔═██╗ ██╔══██╗   ██║╚██╗██║╚██╗ ██╔╝██║██║╚██╔╝██║
-██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██╗██║  ██║██╗██║ ╚████║ ╚████╔╝ ██║██║ ╚═╝ ██║
-╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝╚═╝     ╚═╝
-
-<@damarkrisnandi>
-
-created by me with LazyVim starter
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
 ## Requirements
 
@@ -98,13 +90,13 @@ nvim
 ## Preview
 
 Dashboard
-![dashboard image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/dashboard.png?raw=true)
+![dashboard image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/dashboard_2.png?raw=true)
 
 Editor
-![editor image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/editor.png?raw=true)
+![editor image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/editor_2.png?raw=true)
 
 Editor with Sidebar
-![editor with sidebar image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/sidebar.png?raw=true)
+![editor with sidebar image](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/sidebar_2.png?raw=true)
 
 Telescope
-![telescope](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/telescope.png?raw=true)
+![telescope](https://github.com/damarkrisnandi/lazyvim-setup/blob/master/images/telescope_2.png?raw=true)
