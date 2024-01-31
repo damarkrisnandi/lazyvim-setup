@@ -2,5 +2,7 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 --
--- Gitsigns
+-- Git stuff
 vim.keymap.set("n", "<leader>ght", ":Gitsigns toggle_current_line_blame<CR>", { desc = "Git Lens" })
+vim.keymap.set("n", "<leader>ghB", ":Git blame<CR>", { desc = "Fugitive Blame" })
+
