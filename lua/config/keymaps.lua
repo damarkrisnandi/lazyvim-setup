@@ -3,6 +3,5 @@
 -- Add any additional keymaps here
 --
 -- Git stuff
-vim.keymap.set("n", "<leader>ght", ":Gitsigns toggle_current_line_blame<CR>", { desc = "Git Lens" })
 vim.keymap.set("n", "<leader>ghB", ":Git blame<CR>", { desc = "Fugitive Blame" })
 
